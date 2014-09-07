@@ -1,0 +1,15 @@
+namePrefix: "&2&l[&r"
+nameSuffix: "&r&2&l]&r "
+spyModePrefix: "&4[SpyMode] "
+townChannelPrefix: "&9[Town]&r "
+itemReplaceText: "<item>"
+residentTownPrefix: "&9Resident of "
+
+# %s = player
+nameClickSuggestion: "/msg %s " 
+channelPrefixes:
+  GLOBAL: ""
+  TOWN: "Town: "
+groupRanks: # maps names of permission groups to a specific title in player data
+  admins: "Administrator"
+  mitglied: "Mitglied"
